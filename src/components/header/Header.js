@@ -22,39 +22,6 @@ export default class Header extends React.Component {
                             <li className="nav-item">
                                 <a className="nav-link" href="buy">Vendas</a>
                             </li>
-                            <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Mais informações
-            </a>
-                                <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                                    <a className="dropdown-item" href="newmember">Seja membro do CA</a>
-                                    <a className="dropdown-item" href="what">O que fazemos ?</a>
-                                    <a className="dropdown-item" href="helpus">Precisamos de você !</a>
-                                    <a className="dropdown-item" href="ask">Tire suas duvidas</a>
-                                </div>
-                            </li>
-                            <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Blog
-            </a>
-                                <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                                    <a className="dropdown-item" href="blog2019">2019</a>
-                                    <a className="dropdown-item" href="blog2018">2018</a>
-                                    <a className="dropdown-item" href="blog2017">2017</a>
-                                </div>
-                            </li>
-                            {/* <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Other Pages
-            </a>
-                                <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                                    <a className="dropdown-item" href="full-width.html">Full Width Page</a>
-                                    <a className="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                                    <a className="dropdown-item" href="faq.html">FAQ</a>
-                                    <a className="dropdown-item" href="404.html">404</a>
-                                    <a className="dropdown-item" href="pricing.html">Pricing Table</a>
-                                </div>
-                            </li> */}
                         </ul>
                     </div>
                 </div>
