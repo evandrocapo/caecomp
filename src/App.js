@@ -6,6 +6,7 @@ import Header from './components/header/Header'
 import Footer from './components/footer/Footer'
 import Index from './components/index/Index'
 import Sales from './components/sales/Sales';
+import Members from './components/members/Members';
 
 
 function App() {

@@ -7,8 +7,30 @@ body {
   padding-top: 56px;
 }
 
+@font-face {
+  font-family: "Codec";
+  src: url("Codec-Cold-Bold-trial.ttf");
+}
+
+#font-nav{
+  font-family: "Codec";
+  color: white;
+}
+
 .slider  {
-  text-shadow: 0.1em 0.1em 0.2em black
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+#navbar-top-ed{
+  background-image: linear-gradient(to right top, #787878, #7b7b7b, #7e7e7e, #818181, #848484);
+  border-bottom: solid;
+  border-color: rgb(107, 107, 107);
+}
+
+#bottom-footer{
+  border-top: solid;
+  border-color: rgb(107, 107, 107);
+  background-image: linear-gradient(to right top, #787878, #7b7b7b, #7e7e7e, #818181, #848484);
 }
 
 .carousel-item {

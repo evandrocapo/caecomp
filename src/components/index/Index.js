@@ -9,7 +9,16 @@ export default class Index extends React.Component {
         return (
             <div>
                 <Slider />
-                <br></br>
+                <div class="jumbotron jumbotron-fluid">
+                    <div class="container">
+                        <h1 class="display-4">Sobre nós</h1>
+                        <p class="lead">Tire suas duvidas sobre nós.</p>
+                    </div>
+                </div>
+
+                <h2></h2>
+
+                <br/>
                 <Cards />
             </div>
         )
