@@ -29,7 +29,7 @@ export default class Members extends React.Component {
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-sm mb-4">
+                        <div class="col-lg-4 mb-4">
                             <div class="card h-100 text-center">
                                 <img class="card-img-top" src={membro9} alt="" style={{ height: '300px', width: '100%' }} />
                                 <div class="card-body">
@@ -38,12 +38,12 @@ export default class Members extends React.Component {
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
                                 </div>
                                 <div class="card-footer">
-                                    <a href="#"></a>
+                                    <a href="#">email@gmail.com</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-sm mb-4">
+                        <div class="col-lg-4 mb-4">
                             <div class="card h-100 text-center">
                                 <img class="card-img-top" src={membro1} alt="" style={{ height: '300px', width: '100%' }} />
                                 <div class="card-body">
@@ -57,7 +57,7 @@ export default class Members extends React.Component {
                             </div>
                         </div>
 
-                        <div class="col-sm mb-4">
+                        <div class="col-lg-4 mb-4">
                             <div class="card h-100 text-center">
                                 <img class="card-img-top" src={membro10} alt="" style={{ height: '300px', width: '100%' }} />
                                 <div class="card-body">
@@ -66,7 +66,7 @@ export default class Members extends React.Component {
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
                                 </div>
                                 <div class="card-footer">
-                                    <a href="#"></a>
+                                    <a href="#">email@gmail.com</a>
                                 </div>
                             </div>
                         </div>
